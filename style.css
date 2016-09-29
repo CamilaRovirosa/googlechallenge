@@ -1,0 +1,70 @@
+#header {
+	width: 100%;
+	margin-bottom: 20px;
+	display: flex; 
+}
+.body {
+	font-family: Arial, sans-serif;
+	font-size: 11px;
+}
+.links {
+	width: 15%;
+	margin: 1em 1em 0 0;
+	height: 5%;
+	text-align: right;
+	
+}
+.links div{	
+	display: inline;
+	margin-left: 1em;
+}
+/* resize images */
+.links img {
+    width: 15%;
+    height: auto;
+}
+.title {
+	position: relative;
+	top: 100px;
+  	left: 35%;
+  	clear: both;
+}
+#doodle {
+	position: relative;
+	background-size: 272px 92px;
+	width: 350px;
+	height: 150px;
+	position: relative;
+  	clear: both;
+}
+#SearchQuery {
+	width: 42.5em;
+  	height: 3em;
+ 	margin: 7em auto 1em auto;
+  	display: block;
+  	border: 1px solid #D8D8D8;
+  	border-radius: 0;
+}
+
+.SearchBottom {
+	padding: 1em 1.5em 1em 1.5em;
+  	border: none;
+  	background-color: #f5f5f5;
+  	font-weight: bold;
+  	color: #666666;
+  	margin-left: auto;
+	margin-right: auto;
+}
+.bottoms {
+	width: 100%;
+  	text-align: center;
+	}
+#footer {
+
+}
+.left{
+
+}
+.right {
+
+}
